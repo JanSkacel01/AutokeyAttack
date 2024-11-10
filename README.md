@@ -2,7 +2,7 @@
 
 Tento projekt je implementace šifrování a dešifrování pomocí autoklíčové šifry a slovníkového útoku na tuto šifru. Kromě šifrování a dešifrování umožňuje projekt útok na zašifrovaný text s využitím indexu koincidence a českého slovníku pro detekci smysluplných výsledků.
 
-## Struktura Projektu
+## Struktura projektu
 
 - `src/main/java/org.example/AutoKey.java`: Třída pro šifrování a dešifrování pomocí autoklíčové šifry.
 - `src/main/java/org.example/AutoKeyDecryptionAttack.java`: Třída pro útok na autoklíčovou šifru pomocí slovníkového útoku.
@@ -12,9 +12,9 @@ V hlavní složce projektu je také složka `jar`, která obsahuje dvě spustite
 - `AutoKey.jar`: Pro šifrování a dešifrování pomocí autoklíčové šifry.
 - `AutoKeyDecryptionAttack.jar`: Pro provedení slovníkového útoku na zašifrovaný text.
 
-## Jak Projekt Spustit
+## Jak ".jar" soubory spustit
 
-K spuštění `.jar` souborů potřebujete mít nainstalovanou Javu (Java Runtime Environment, JRE). Můžete použít příkazovou řádku, a to následovně:
+K spuštění `.jar` souborů potřebujete mít nainstalovanou Javu (Java Runtime Environment, JRE). Před spuštěním se ujistěte, že se nacházíte ve složce `jar`. Můžete použít příkazovou řádku, a to následovně:
 
 1. Pro šifrování a dešifrování:
    ```bash
