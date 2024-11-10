@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="083ad85b-5649-4aeb-884f-23658dd469e3" name="Changes" comment="Jar generated" />
+    <list default="true" id="083ad85b-5649-4aeb-884f-23658dd469e3" name="Changes" comment="Mac Sync" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,6 +137,7 @@
       <workItem from="1731267288570" duration="963000" />
       <workItem from="1731268292261" duration="53000" />
       <workItem from="1731268582013" duration="444000" />
+      <workItem from="1731269590006" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="Jar generated">
       <option name="closed" value="true" />
@@ -146,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731269004357</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mac Sync">
+      <option name="closed" value="true" />
+      <created>1731269651102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731269651102</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Jar generated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jar generated" />
+    <MESSAGE value="Mac Sync" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mac Sync" />
   </component>
 </project>
