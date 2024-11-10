@@ -99,7 +99,7 @@ public class AutoKey {
             }
 
             int first = alphabet.indexOf(msgChar);
-            int second = alphabet.indexOf(currentKey.charAt(x - numOfSpaces)); // Pouzici indexu klíče musíme snížit o počet mezer
+            int second = alphabet.indexOf(currentKey.charAt(x - numOfSpaces)); // Pouzici indexu klíče musíme snížit o počet mezer.
             int total = (first - second + alphabet.length()) % alphabet.length();
             decryptMsg.append(alphabet.charAt(total));
         }

@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="083ad85b-5649-4aeb-884f-23658dd469e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AutoKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AutoKey.java" afterDir="false" />
-    </list>
+    <list default="true" id="083ad85b-5649-4aeb-884f-23658dd469e3" name="Changes" comment="Jar generated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,11 +136,24 @@
       <workItem from="1731266588656" duration="673000" />
       <workItem from="1731267288570" duration="963000" />
       <workItem from="1731268292261" duration="53000" />
-      <workItem from="1731268582013" duration="286000" />
+      <workItem from="1731268582013" duration="444000" />
     </task>
+    <task id="LOCAL-00001" summary="Jar generated">
+      <option name="closed" value="true" />
+      <created>1731269004357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731269004357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jar generated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jar generated" />
   </component>
 </project>
