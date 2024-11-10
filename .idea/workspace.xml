@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="083ad85b-5649-4aeb-884f-23658dd469e3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/KOSB1_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/KOSB1_jar3/KOSB1.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="083ad85b-5649-4aeb-884f-23658dd469e3" name="Changes" comment="School files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +72,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jenda\IdeaProjects\AutokeyAttack" />
+      <recent name="C:\Users\Jenda\IdeaProjects\AutokeyAttack\jar" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.AutoKeyDecryptionAttack">
     <configuration name="AutoKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.AutoKey" />
@@ -146,6 +146,7 @@
       <workItem from="1731269590006" duration="67000" />
       <workItem from="1731270119732" duration="3494000" />
       <workItem from="1731274851746" duration="2186000" />
+      <workItem from="1731279508135" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="Jar generated">
       <option name="closed" value="true" />
@@ -171,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731270126019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="School files">
+      <option name="closed" value="true" />
+      <created>1731279638387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731279638387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +200,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Jar generated" />
     <MESSAGE value="Mac Sync" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mac Sync" />
+    <MESSAGE value="School files" />
+    <option name="LAST_COMMIT_MESSAGE" value="School files" />
   </component>
 </project>
