@@ -26,7 +26,7 @@ K spuštění `.jar` souborů potřebujete mít nainstalovanou Javu (Java Runtim
 
 # Poznámka k Diakritice na Windows
 
-Při spuštění na příkazové řádce Windows mohou nastat problémy při zadávání vstupu s diakritikou, protože Windows používá odlišné formátování, které může být nekompatibilní. Pokud se setkáte s těmito problémy, zkuste zadávat text bez diakritiky nebo použít alternativní prostředí (například PowerShell nebo Git Bash).
+Při spuštění na příkazové řádce Windows mohou nastat problémy při zadávání vstupu s diakritikou, protože Windows používá odlišné formátování, které může být nekompatibilní. Pokud se setkáte s těmito problémy, zkuste zadávat text bez diakritiky nebo použít alternativní prostředí (pokud možno Git Bash).
 
 # Závislosti
 
