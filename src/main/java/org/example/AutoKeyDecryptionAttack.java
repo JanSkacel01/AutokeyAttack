@@ -138,6 +138,7 @@ public class AutoKeyDecryptionAttack {
         }
         displayResults(possibleDecryptedTexts, bestKeys, dictionary, scanner);
     }
+
     //Smyčka pro input (double) dokud není validní. Lze nastavit i rozmezí
     private static double promptForDouble(Scanner scanner, String prompt, double min, double max) {
         while (true) {
@@ -206,14 +207,14 @@ public class AutoKeyDecryptionAttack {
             System.out.println("Nebyla nalezena žádná dešifrovaná zpráva mezi nejlepšími výsledky.");
         } else {
             System.out.println("Nejlepší výsledky:");
-            for (String result : bestResults) {
-                String key = bestKeys.get(possibleDecryptedTexts.indexOf(result));
-                System.out.println("Klíč: " + key + ", Dešifrovaný text: " + result);
-            }
-            if (promptYesNo(scanner, "Chcete zobrazit všechny nalezené výsledky? (y/n): ")) {
-                for (int i = 0; i < possibleDecryptedTexts.size(); i++) {
-                    System.out.println("Klíč: " + bestKeys.get(i) + ", Dešifrovaný text: " + possibleDecryptedTexts.get(i));
-                }
+        }
+        for (String result : bestResults) {
+            String key = bestKeys.get(possibleDecryptedTexts.indexOf(result));
+            System.out.println("Klíč: " + key + ", Dešifrovaný text: " + result);
+        }
+        if (promptYesNo(scanner, "Chcete zobrazit všechny nalezené výsledky? (y/n): ")) {
+            for (int i = 0; i < possibleDecryptedTexts.size(); i++) {
+                System.out.println("Klíč: " + bestKeys.get(i) + ", Dešifrovaný text: " + possibleDecryptedTexts.get(i));
             }
         }
     }
